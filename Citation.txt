@@ -1,0 +1,11 @@
+Sina Khanmohammadi, Naiier Adibeig, Samaneh Shanehbandy,
+An improved overlapping k-means clustering method for medical applications,
+Expert Systems with Applications,
+Volume 67,
+2017,
+Pages 12-18,
+ISSN 0957-4174,
+https://doi.org/10.1016/j.eswa.2016.09.025.
+(https://www.sciencedirect.com/science/article/pii/S0957417416305097)
+Abstract: Data clustering has been proven to be an effective method for discovering structure in medical datasets. The majority of clustering algorithms produce exclusive clusters meaning that each sample can belong to one cluster only. However, most real-world medical datasets have inherently overlapping information, which could be best explained by overlapping clustering methods that allow one sample belong to more than one cluster. One of the simplest and most efficient overlapping clustering methods is known as overlapping k-means (OKM), which is an extension of the traditional k-means algorithm. Being an extension of the k-means algorithm, the OKM method also suffers from sensitivity to the initial cluster centroids. In this paper, we propose a hybrid method that combines k-harmonic means and overlapping k-means algorithms (KHM-OKM) to overcome this limitation. The main idea behind KHM-OKM method is to use the output of KHM method to initialize the cluster centers of OKM method. We have tested the proposed method using FBCubed metric, which has been shown to be the most effective measure to evaluate overlapping clustering algorithms regarding homogeneity, completeness, rag bag, and cluster size-quantity tradeoff. According to results from ten publicly available medical datasets, the KHM-OKM algorithm outperforms the original OKM algorithm and can be used as an efficient method for clustering medical datasets.
+Keywords: Overlapping clustering; Overlapping k-means; K-harmonic means; FBCubed; Data Mining; Medical informatics
